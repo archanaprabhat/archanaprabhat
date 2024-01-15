@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Archana</h1>
-<h3 align="center">a passionate self-taught front-end developer from India. I have experience in crafting dynamic front-end interfaces and am adept in the latest web technologies. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Feel free to reach out if you are looking for a dedicated front-end developer to bring your ideas to life!</h3>
-
+<h3 align="center">A passionate self-taught front-end developer from India. I have experience in crafting dynamic front-end interfaces and am adept in the latest web technologies. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Feel free to reach out if you are looking for a dedicated front-end developer to bring your ideas to life!</h3>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/archana_tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="archana_tk" height="30" width="40" /></a>
